@@ -1,0 +1,8 @@
+{
+  "name": "Kunzi Investment - Sino-US Cross-Border Consultancy",
+  "description": "A professional investment consultancy platform for Sina-US cross-border investment and business expansion, featuring market insights and an AI-powered cross-border advisor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
